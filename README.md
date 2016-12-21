@@ -1,7 +1,7 @@
 # samsung-smarttv-firewall
 Domains that need to be blocked to preserve your privacy when using samsung smart tv's
 
-I've started monitoring what my new samsung tv does on my network and researching privacy with samsung smart tvs, these are the domains it attempts to talk (ship my private information) to.
+I've started monitoring what my new samsung tv does on my network and researching privacy with samsung smart tvs, these are the domains it attempts to talk (ship my private information) to. Blocking all of these domains at the top level will ensure a good bit of privacy from Samsung.
 
 ```
 device-metrics-us.amazon.com
